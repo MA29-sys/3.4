@@ -6,4 +6,4 @@
 - Dane wczytujemy wyłącznie z pliku `dane/pozycje.txt`, format `tytuł;rok;ocena`.
 - Wszystkie pliki tekstowe zapisuj w UTF-8.
 - Nie zmieniaj plików, o które nie było prośby.
-- Krótkie metody: jedna rzecz, jedna metoda.
+- Każda metoda ma jedną odpowiedzialność i nie więcej niż 30 niepustych linii kodu.
